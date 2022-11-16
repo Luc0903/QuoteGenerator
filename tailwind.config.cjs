@@ -12,6 +12,7 @@ module.exports = {
         main__beige: '#F7DF94',
         ligth__gray: '#828282',
         dark__gray: '#333333',
+        ligth_beige: '#747474',
       },
     },
   },
